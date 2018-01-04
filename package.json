@@ -1,0 +1,24 @@
+{
+  "name": "create-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyy1115/create-portal.git"
+  },
+  "author": "hyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyy1115/create-portal/issues"
+  },
+  "homepage": "https://github.com/hyy1115/create-portal#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
