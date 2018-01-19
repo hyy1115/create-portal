@@ -1,3 +1,1 @@
-import CreatePortal from './dist/CreatePortal'
-
-export default CreatePortal
+'use strict';exports.__esModule=!0;var _CreatePortal=require('./dist/CreatePortal'),_CreatePortal2=_interopRequireDefault(_CreatePortal);function _interopRequireDefault(a){return a&&a.__esModule?a:{default:a}}exports.default=_CreatePortal2.default;
